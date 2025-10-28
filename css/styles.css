@@ -1,0 +1,9 @@
+*{
+    font-family:'popins',sans-serif;
+}
+.banner {
+background-image: url(/portfolio/css/images/sl_122221_47450_06.jpg);
+padding:200px;
+background-size: cover;
+background-repeat:no-repeat;
+}
